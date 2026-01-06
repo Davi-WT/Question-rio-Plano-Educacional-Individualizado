@@ -1,0 +1,3092 @@
+{
+  "fonte_arquivo": "index.html",
+  "total_questoes": 118,
+  "escala": [
+    {
+      "value": 0,
+      "label": "Nunca ou Raramente"
+    },
+    {
+      "value": 1,
+      "label": "Às vezes"
+    },
+    {
+      "value": 2,
+      "label": "Frequentemente"
+    },
+    {
+      "value": 3,
+      "label": "Sempre"
+    }
+  ],
+  "questoes": [
+    {
+      "id": "Q001",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Crianças de 1 a 5 anos",
+      "dimensao": "Interação com os Colegas",
+      "tipo": "likert",
+      "pergunta": "A criança inicia interações com outras crianças (brincadeiras, conversas)?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q002",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Crianças de 1 a 5 anos",
+      "dimensao": "Interação com os Colegas",
+      "tipo": "likert",
+      "pergunta": "A criança responde de forma positiva quando outros tentam interagir com ela?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q003",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Crianças de 1 a 5 anos",
+      "dimensao": "Interação com os Colegas",
+      "tipo": "likert",
+      "pergunta": "A criança compartilha brinquedos ou materiais com os colegas?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q004",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Crianças de 1 a 5 anos",
+      "dimensao": "Compreenção de regras sociais",
+      "tipo": "likert",
+      "pergunta": "A criança consegue esperar a sua vez em jogos ou atividades em grupo?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q005",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Crianças de 1 a 5 anos",
+      "dimensao": "Compreenção de regras sociais",
+      "tipo": "likert",
+      "pergunta": "A criança segue instruções simples durante atividades coletivas?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q006",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Crianças de 1 a 5 anos",
+      "dimensao": "Compreenção de regras sociais",
+      "tipo": "likert",
+      "pergunta": "A criança respeita o espaço pessoal dos outros, sem invadir ou se afastar sem necessidade?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q007",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Crianças de 1 a 5 anos",
+      "dimensao": "Expressão Emocional",
+      "tipo": "likert",
+      "pergunta": "A criança expressa suas emoções (felicidade, tristeza, frustração) de forma adequada para a situação?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q008",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Crianças de 1 a 5 anos",
+      "dimensao": "Expressão Emocional",
+      "tipo": "likert",
+      "pergunta": "A criança percebe e reage de forma apropriada às emoções dos outros (exemplo: conforta um colega que está chorando)?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q009",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Crianças de 1 a 5 anos",
+      "dimensao": "Resolução de conflitos",
+      "tipo": "likert",
+      "pergunta": "A criança tenta resolver conflitos de forma independente, por meio de palavras ou gestos, ao invés de reagir com agressividade?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q010",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Crianças de 1 a 5 anos",
+      "dimensao": "Resolução de conflitos",
+      "tipo": "likert",
+      "pergunta": "A criança pede ajuda de um adulto quando não consegue resolver um conflito?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q011",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Crianças de 1 a 5 anos",
+      "dimensao": "Resolução de conflitos",
+      "tipo": "likert",
+      "pergunta": "A criança demonstra interesse pelo bem-estar dos colegas (perguntando se estão bem, oferecendo ajuda)?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q012",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Crianças de 1 a 5 anos",
+      "dimensao": "Resolução de conflitos",
+      "tipo": "likert",
+      "pergunta": "A criança reconhece quando outros estão tristes ou com dificuldades e tenta ajudar?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q013",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Crianças de 1 a 5 anos",
+      "dimensao": "Comportamento em Grupo",
+      "tipo": "likert",
+      "pergunta": "A criança se envolve nas atividades em grupo sem se isolar ou se afastar constantemente?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q014",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Crianças de 1 a 5 anos",
+      "dimensao": "Comportamento em Grupo",
+      "tipo": "likert",
+      "pergunta": "A criança se sente confortável para participar de jogos e brincadeiras coletivas?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q015",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Crianças de 1 a 5 anos",
+      "dimensao": "Comportamento em Grupo",
+      "tipo": "likert",
+      "pergunta": "A criança consegue conversar com os colegas sobre temas simples ou atividades em andamento?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q016",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Crianças de 6 a 11 anos",
+      "dimensao": "Comportamento em Relação a Autoridades(professores e adultos)",
+      "tipo": "likert",
+      "pergunta": "A criança responde de forma respeitosa às orientações dos professores e outros adultos da escola?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q017",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Crianças de 6 a 11 anos",
+      "dimensao": "Comportamento em Relação a Autoridades(professores e adultos)",
+      "tipo": "likert",
+      "pergunta": "A criança pede ajuda ou esclarecimentos quando não entende uma tarefa ou atividade?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q018",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Crianças de 6 a 11 anos",
+      "dimensao": "Comportamento em Relação a Autoridades(professores e adultos)",
+      "tipo": "likert",
+      "pergunta": "A criança aceita críticas e orientações de maneira construtiva, sem reações excessivas?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q019",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Crianças de 6 a 11 anos",
+      "dimensao": "Autocontrole e Regulação Emocional",
+      "tipo": "likert",
+      "pergunta": "A criança demonstra controle emocional quando está frustrada, nervosa ou triste?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q020",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Crianças de 6 a 11 anos",
+      "dimensao": "Autocontrole e Regulação Emocional",
+      "tipo": "likert",
+      "pergunta": "A criança é capaz de lidar com situações de estresse (como perder um jogo ouuma atividade) de maneira equilibrada?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q021",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Crianças de 6 a 11 anos",
+      "dimensao": "Autocontrole e Regulação Emocional",
+      "tipo": "likert",
+      "pergunta": "Quando a criança fica irritada ou chateada, ela consegue se acalmar sem precisar de intervenção constante de um adulto?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q022",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Crianças de 6 a 11 anos",
+      "dimensao": "Autocontrole e Regulação Emocional",
+      "tipo": "likert",
+      "pergunta": "A criança exibe comportamentos agressivos, como empurrar, bater ou fazer comentários ofensivos, em situações de conflito?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q023",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Crianças de 6 a 11 anos",
+      "dimensao": "Autocontrole e Regulação Emocional",
+      "tipo": "likert",
+      "pergunta": "A criança tende a interromper ou gritar quando está em desacordo com os colegas ou com os adultos?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q024",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Crianças de 6 a 11 anos",
+      "dimensao": "Autocontrole e Regulação Emocional",
+      "tipo": "likert",
+      "pergunta": "A criança consegue perceber quando está se comportando de forma inadequada e tenta corrigir?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q025",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Adolescentes de 12 a 17 anos",
+      "dimensao": "Interação com os Colegas / Respeito às Regras Sociais e Escolares",
+      "tipo": "likert",
+      "pergunta": "O adolescente inicia e mantém conversas com colegas de forma respeitosa e apropriada?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q026",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Adolescentes de 12 a 17 anos",
+      "dimensao": "Interação com os Colegas / Respeito às Regras Sociais e Escolares",
+      "tipo": "likert",
+      "pergunta": "O adolescente consegue integrar-se a diferentes grupos de amigos e colaborar nas atividades escolares?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q027",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Adolescentes de 12 a 17 anos",
+      "dimensao": "Interação com os Colegas / Respeito às Regras Sociais e Escolares",
+      "tipo": "likert",
+      "pergunta": "O adolescente demonstra empatia e interesse pelo bem-estar dos colegas?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q028",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Adolescentes de 12 a 17 anos",
+      "dimensao": "Interação com os Colegas / Respeito às Regras Sociais e Escolares",
+      "tipo": "likert",
+      "pergunta": "O adolescente segue as regras de convivência em grupo, como respeitar turnos, fazer trabalho em equipe e colaborar em atividades coletivas?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q029",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Adolescentes de 12 a 17 anos",
+      "dimensao": "Interação com os Colegas / Respeito às Regras Sociais e Escolares",
+      "tipo": "likert",
+      "pergunta": "O adolescente aceita as normas e orientações dos professores e outros adultosda escola sem resistência excessiva?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q030",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Adolescentes de 12 a 17 anos",
+      "dimensao": "Interação com os Colegas / Respeito às Regras Sociais e Escolares",
+      "tipo": "likert",
+      "pergunta": "O adolescente demonstra maturidade em situações que exigem autocontrole?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q031",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Adolescentes de 12 a 17 anos",
+      "dimensao": "Resolução de Conflitos",
+      "tipo": "likert",
+      "pergunta": "O adolescente resolve conflitos de maneira pacífica e construtiva, utilizando palavras em vez de ações agressivas?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q032",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Adolescentes de 12 a 17 anos",
+      "dimensao": "Resolução de Conflitos",
+      "tipo": "likert",
+      "pergunta": "Quando se envolve em uma discussão ou desentendimento, o adolescente tenta ouvir o ponto de vista do outro e buscar uma solução?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q033",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Adolescentes de 12 a 17 anos",
+      "dimensao": "Resolução de Conflitos",
+      "tipo": "likert",
+      "pergunta": "O adolescente é capaz de pedir desculpas e fazer reparações quando reconhece que errou em um conflito?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q034",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Adolescentes de 12 a 17 anos",
+      "dimensao": "Comportamento em Situações de Estresse",
+      "tipo": "likert",
+      "pergunta": "O adolescente lida bem com situações de estresse ou pressão, como atividades em grupo ou situações de avaliação?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q035",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Adolescentes de 12 a 17 anos",
+      "dimensao": "Comportamento em Situações de Estresse",
+      "tipo": "likert",
+      "pergunta": "Quando o adolescente se sente frustrado, ele consegue controlar suas emoções e comportamentos, sem recorrer a atitudes impulsivas ou agressivas?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q036",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Adolescentes de 12 a 17 anos",
+      "dimensao": "Comportamento em Situações de Estresse",
+      "tipo": "likert",
+      "pergunta": "O adolescente consegue pedir ajuda ou orientação quando está sobrecarregado ou confuso em relação a alguma situação social?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q037",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Adolescentes de 12 a 17 anos",
+      "dimensao": "Empatia e Relações Interpessoais",
+      "tipo": "likert",
+      "pergunta": "O adolescente é capaz de perceber as necessidades emocionais e sociais dos outros e oferece apoio quando necessário?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q038",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Adolescentes de 12 a 17 anos",
+      "dimensao": "Comportamento em Grupo e Colaboração",
+      "tipo": "likert",
+      "pergunta": "O adolescente participa de maneira ativa e construtiva em atividades coletivas (trabalho em grupo, projetos, discussões)?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q039",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Adolescentes de 12 a 17 anos",
+      "dimensao": "Autonomia e Tomada de Decisão",
+      "tipo": "likert",
+      "pergunta": "O adolescente demonstra capacidade para tomar decisões de forma autônoma, considerando as consequências de suas escolhas?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q040",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Adolescentes de 12 a 17 anos",
+      "dimensao": "Autonomia e Tomada de Decisão",
+      "tipo": "likert",
+      "pergunta": "O adolescente sabe pedir ajuda quando necessário, sem hesitar ou agir impulsivamente em situações desafiadoras?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q041",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Adolescentes de 12 a 17 anos",
+      "dimensao": "Autonomia e Tomada de Decisão",
+      "tipo": "likert",
+      "pergunta": "O adolescente toma a iniciativa em atividades ou projetos e se envolve de maneira proativa em seu aprendizado e socialização?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q042",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Adolescentes de 12 a 17 anos",
+      "dimensao": "Comportamento de Agressividade e Impulsividade",
+      "tipo": "likert",
+      "pergunta": "O adolescente demonstra comportamentos agressivos (verbais ou físicos) em situações de frustração, raiva ou ciúmes?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q043",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Adolescentes de 12 a 17 anos",
+      "dimensao": "Comportamento de Agressividade e Impulsividade",
+      "tipo": "likert",
+      "pergunta": "O adolescente tem dificuldades em controlar comportamentos impulsivos, como interromper ou reagir rapidamente a provocações?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q044",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES SOCIAIS",
+      "faixa_etaria": "Adolescentes de 12 a 17 anos",
+      "dimensao": "Comportamento de Agressividade e Impulsividade",
+      "tipo": "likert",
+      "pergunta": "O adolescente consegue controlar suas reações emocionais em situações de provocação ou pressão social?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q045",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES EMOCIONAIS",
+      "faixa_etaria": "Crianças de 1 a 4 anos",
+      "dimensao": "Reconhecimento de emoções",
+      "tipo": "likert",
+      "pergunta": "A criança consegue identificar e nomear emoções básicas como felicidade, tristeza e raiva?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q046",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES EMOCIONAIS",
+      "faixa_etaria": "Crianças de 1 a 4 anos",
+      "dimensao": "Reconhecimento de emoções",
+      "tipo": "likert",
+      "pergunta": "Quando a criança se sente triste ou frustrada, ela demonstra compreender o que está sentindo?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q047",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES EMOCIONAIS",
+      "faixa_etaria": "Crianças de 1 a 4 anos",
+      "dimensao": "Expressão Emocional",
+      "tipo": "likert",
+      "pergunta": "A criança expressa suas emoções de forma clara, seja por palavras ou gestos?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q048",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES EMOCIONAIS",
+      "faixa_etaria": "Crianças de 1 a 4 anos",
+      "dimensao": "Expressão Emocional",
+      "tipo": "likert",
+      "pergunta": "Quando a criança está feliz ou empolgada, ela consegue demonstrar essas emoções de maneira visível (sorrindo, pulando, etc.)?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q049",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES EMOCIONAIS",
+      "faixa_etaria": "Crianças de 1 a 4 anos",
+      "dimensao": "Expressão Emocional",
+      "tipo": "likert",
+      "pergunta": "Quando a criança está irritada ou triste, ela consegue se acalmar após um breve período?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q050",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES EMOCIONAIS",
+      "faixa_etaria": "Crianças de 1 a 4 anos",
+      "dimensao": "Expressão Emocional",
+      "tipo": "likert",
+      "pergunta": "A criança demonstra dificuldades para controlar suas emoções em situações de frustração (exemplo: perder um brinquedo ou não conseguir fazer algo)?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q051",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES EMOCIONAIS",
+      "faixa_etaria": "Crianças de 1 a 4 anos",
+      "dimensao": "Empatia",
+      "tipo": "likert",
+      "pergunta": "A criança percebe quando um colega está triste ou machucado e demonstra preocupação?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q052",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES EMOCIONAIS",
+      "faixa_etaria": "Crianças de 1 a 4 anos",
+      "dimensao": "Empatia",
+      "tipo": "likert",
+      "pergunta": "Quando vê outro colega em apuros, a criança tenta confortá-lo ou ajudar de alguma forma?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q053",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES EMOCIONAIS",
+      "faixa_etaria": "Crianças de 1 a 4 anos",
+      "dimensao": "Reação a Mudanças e Frustrações",
+      "tipo": "likert",
+      "pergunta": "A criança lida bem com mudanças na rotina ou atividades (exemplo: troca de brinquedo ou ambiente)?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q054",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES EMOCIONAIS",
+      "faixa_etaria": "Crianças de 1 a 4 anos",
+      "dimensao": "Reação a Mudanças e Frustrações",
+      "tipo": "likert",
+      "pergunta": "A criança fica chateada ou irritada quando algo não sai como esperado, mas consegue se recuperar rapidamente?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q055",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES EMOCIONAIS",
+      "faixa_etaria": "Crianças de 5 a 11 anos",
+      "dimensao": "Reconhecimento e Expressão das Emoções",
+      "tipo": "likert",
+      "pergunta": "A criança consegue identificar e expressar suas emoções de forma clara (exemplo: \"Estou feliz\", \"Estou triste\")?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q056",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES EMOCIONAIS",
+      "faixa_etaria": "Crianças de 5 a 11 anos",
+      "dimensao": "Reconhecimento e Expressão das Emoções",
+      "tipo": "likert",
+      "pergunta": "Quando a criança está sentindo algo, ela consegue comunicar esse sentimento de maneira adequada (verbalmente ou com gestos)?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q057",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES EMOCIONAIS",
+      "faixa_etaria": "Crianças de 5 a 11 anos",
+      "dimensao": "Reconhecimento e Expressão das Emoções",
+      "tipo": "likert",
+      "pergunta": "A criança consegue controlar suas reações emocionais em situações de frustração (exemplo: quando algo não dá certo ou quando perde em um jogo)?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q058",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES EMOCIONAIS",
+      "faixa_etaria": "Crianças de 5 a 11 anos",
+      "dimensao": "Reconhecimento e Expressão das Emoções",
+      "tipo": "likert",
+      "pergunta": "Quando a criança se sente irritada ou triste, ela consegue se acalmar sozinha ou com pouco apoio?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q059",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES EMOCIONAIS",
+      "faixa_etaria": "Crianças de 5 a 11 anos",
+      "dimensao": "Empatia",
+      "tipo": "likert",
+      "pergunta": "A criança percebe quando outro colega está triste, com raiva ou com dificuldades e tenta ajudar ou confortar?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q060",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES EMOCIONAIS",
+      "faixa_etaria": "Crianças de 5 a 11 anos",
+      "dimensao": "Empatia",
+      "tipo": "likert",
+      "pergunta": "A criança demonstra sensibilidade ao comportamento e às necessidades emocionais dos outros?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q061",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES EMOCIONAIS",
+      "faixa_etaria": "Crianças de 5 a 11 anos",
+      "dimensao": "Lidar com Desafios e Frustrações",
+      "tipo": "likert",
+      "pergunta": "A criança lida bem com mudanças na rotina ou imprevistos, sem ficar muito ansiosa ou irritada?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q062",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES EMOCIONAIS",
+      "faixa_etaria": "Crianças de 5 a 11 anos",
+      "dimensao": "Lidar com Desafios e Frustrações",
+      "tipo": "likert",
+      "pergunta": "Quando a criança enfrenta dificuldades em uma tarefa ou atividade, ela tenta persistir ou pede ajuda de forma adequada?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q063",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES EMOCIONAIS",
+      "faixa_etaria": "Crianças de 5 a 11 anos",
+      "dimensao": "Regulação Emocional em Situações Sociais",
+      "tipo": "likert",
+      "pergunta": "A criança consegue controlar suas emoções quando está em um grupo (não interrompe os outros, não fica muito agitada ou isolada)?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q064",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES EMOCIONAIS",
+      "faixa_etaria": "Crianças de 5 a 11 anos",
+      "dimensao": "Regulação Emocional em Situações Sociais",
+      "tipo": "likert",
+      "pergunta": "A criança sabe lidar com conflitos de forma tranquila, buscando resolver desentendimentos sem agressividade ou atitudes impulsivas?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q065",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES EMOCIONAIS",
+      "faixa_etaria": "Adolescentes de 12 a 17 anos",
+      "dimensao": "Autoconsciência Emocional",
+      "tipo": "likert",
+      "pergunta": "O adolescente consegue identificar e nomear suas emoções de forma clara (exemplo: \"Estou frustrado\", \"Estou ansioso\")?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q066",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES EMOCIONAIS",
+      "faixa_etaria": "Adolescentes de 12 a 17 anos",
+      "dimensao": "Autoconsciência Emocional",
+      "tipo": "likert",
+      "pergunta": "O adolescente é capaz de refletir sobre os sentimentos que está vivendo em diferentes situações (por exemplo, após uma discussão ou tarefa difícil)?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q067",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES EMOCIONAIS",
+      "faixa_etaria": "Adolescentes de 12 a 17 anos",
+      "dimensao": "Expressão Emocional",
+      "tipo": "likert",
+      "pergunta": "O adolescente consegue expressar suas emoções de maneira adequada, sem exageros ou repressões?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q068",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES EMOCIONAIS",
+      "faixa_etaria": "Adolescentes de 12 a 17 anos",
+      "dimensao": "Expressão Emocional",
+      "tipo": "likert",
+      "pergunta": "O adolescente se sente confortável em comunicar seus sentimentos aos outros, seja por palavras ou gestos, em momentos apropriados?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q069",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES EMOCIONAIS",
+      "faixa_etaria": "Adolescentes de 12 a 17 anos",
+      "dimensao": "Expressão Emocional",
+      "tipo": "likert",
+      "pergunta": "O adolescente consegue controlar suas emoções em situações de frustração ou conflito (exemplo: não gritar ou agir impulsivamente)?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q070",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES EMOCIONAIS",
+      "faixa_etaria": "Adolescentes de 12 a 17 anos",
+      "dimensao": "Expressão Emocional",
+      "tipo": "likert",
+      "pergunta": "O adolescente tem capacidade de se acalmar rapidamente após momentos de raiva, tristeza ou ansiedade?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q071",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES EMOCIONAIS",
+      "faixa_etaria": "Adolescentes de 12 a 17 anos",
+      "dimensao": "Empatia",
+      "tipo": "likert",
+      "pergunta": "O adolescente percebe quando os outros estão passando por dificuldades emocionais e tenta ajudar ou mostrar apoio?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q072",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES EMOCIONAIS",
+      "faixa_etaria": "Adolescentes de 12 a 17 anos",
+      "dimensao": "Empatia",
+      "tipo": "likert",
+      "pergunta": "O adolescente respeita as emoções dos colegas e tenta se colocar no lugar dos outros antes de tomar decisões ou agir?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q073",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES EMOCIONAIS",
+      "faixa_etaria": "Adolescentes de 12 a 17 anos",
+      "dimensao": "Lidar com Desafios e Frustração",
+      "tipo": "likert",
+      "pergunta": "O adolescente consegue lidar com críticas e frustrações sem reagir de forma excessiva ou defensiva?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q074",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES EMOCIONAIS",
+      "faixa_etaria": "Adolescentes de 12 a 17 anos",
+      "dimensao": "Lidar com Desafios e Frustração",
+      "tipo": "likert",
+      "pergunta": "Quando o adolescente se depara com desafios, ele tenta encontrar soluções de forma construtiva e sem se deixar dominar pela emoção?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q075",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES EMOCIONAIS",
+      "faixa_etaria": "Adolescentes de 12 a 17 anos",
+      "dimensao": "Lidar com Desafios e Frustração",
+      "tipo": "likert",
+      "pergunta": "O adolescente consegue lidar com desacordos de forma madura, buscando soluções pacíficas e evitando brigas ou discussões acaloradas?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q076",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES EMOCIONAIS",
+      "faixa_etaria": "Adolescentes de 12 a 17 anos",
+      "dimensao": "Lidar com Desafios e Frustração",
+      "tipo": "likert",
+      "pergunta": "O adolescente é capaz de pedir desculpas ou reconhecer quando agiu de maneira inadequada em situações de conflito?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q077",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Atenção e Foco",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "A criança consegue se concentrar em uma atividade por um período de tempo adequado a sua faixa etária(exemplo: 5-10 minutos para atividades mais simples)?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q078",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Atenção e Foco",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "Quando ela está envolvida em uma tarefa, a criança demonstra interesse em completar a atividade até o fim?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q079",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Memória",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "A criança consegue lembrar e seguir instruções simples(exemplo:\"Pegue o brinquedo vermelho e coloque na caixa\")?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q080",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Memória",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "A criança consegue reconhecer e nomear objetos ou pessoas com base em experiências anteriores?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q081",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Resolução de Problemas",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "Quando a criança encontra um desafio, ela tenta encontrar uma solução sozinha antes de pedir ajuda?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q082",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Resolução de Problemas",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "A criança demonstra curiosidade para explorar e entender como as coisas funcionam (exemplo: tentativas de montar brinquedos ou resolver quebra-cabeças)?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q083",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Linguagem",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "A criança utiliza palavras para se comunicar de forma clara e simples(mesmo que com um vocabulário limitado, conforme sua idade)?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q084",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Linguagem",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "A criança consegue compreender instruções simples e perguntar ou comentar sobre o que está acontecendo ao seu redor?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q085",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Desenvolvimento de Habilidade Motoras e Coordenação",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "A criança demonstra habilidades motoras grossas (exemplo: correr, pular, subir escadas) de acordo com a sua faixa etária?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q086",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Desenvolvimento de Habilidade Motoras e Coordenação",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "A criança tem controle motor fina(exemplo: empilhar blocos, desenhar ou usar utensilhos para comer) adequado para sua idade?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q087",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Desenvolvimento de Conceitos",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "A criança é capaz de entender conceitos básicos como cores, formas e tamanhos?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q088",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Desenvolvimento de Conceitos",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "A criança começa a categorizar objetos de acordo com suas características(exemplo: colocar todos os brinquedos de uma cor ou tipo juntos)?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q089",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Crianças de 6 a 11 anos",
+      "dimensao": "Atenção e Concentração",
+      "tipo": "likert",
+      "pergunta": "A criança consegue se concentrar em uma tarefa por um período adequado à sua faixa etária(15-30 minutos)?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q090",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Crianças de 6 a 11 anos",
+      "dimensao": "Atenção e Concentração",
+      "tipo": "likert",
+      "pergunta": "A criança consegue evitar distrações durante atividade escolares ou de grupo?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q091",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Crianças de 6 a 11 anos",
+      "dimensao": "Memória e Retenção",
+      "tipo": "likert",
+      "pergunta": "A criança consegue lembrar informaçõesque foram apreentadas recentemente, como detalhes de uma história ou tarefa?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q092",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Crianças de 6 a 11 anos",
+      "dimensao": "Memória e Retenção",
+      "tipo": "likert",
+      "pergunta": "A criança é capaz de seguir múltiplas instruções de forma sequencial (exemplo:\"Pegue um livro, vá até a mesa e depois abra na página 15\")?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q093",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Crianças de 6 a 11 anos",
+      "dimensao": "Resolução de Problemas e Pensamento Crítico",
+      "tipo": "likert",
+      "pergunta": "Quando confrontada com um problema, a criança tenta várias abordagens para encontrar uma solução antes de pedir ajuda?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q094",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Crianças de 6 a 11 anos",
+      "dimensao": "Resolução de Problemas e Pensamento Crítico",
+      "tipo": "likert",
+      "pergunta": "A criança demonstra pensamento lógico e raciocínio ao resolver problemas simples como quebra-cabeças ou cituações do cotidiano?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q095",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Linguagem e Comunicação",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "A criança consegue explicar suas ideias de forma clara e compreensivel para os outros?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q096",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Linguagem e Comunicação",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "A criança usa vocabulário apropriado e consegue fazer perguntas para entender melhor o que esta acontecendo ao seu redor?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q097",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Organização e Planejamento",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "A criança consegue planejar e organizar suas atividades de forma eficiente(exemplo:\"organizar o tempo para fazer a lição de casa\")?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q098",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Organização e Planejamento",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "A criança consegue estabelecer prioridades, decidindo o que fazer primeiro, com base nas necessidades da tarefa",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q099",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Habilidade de Leitura e Escrita",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "A criança lê e compreende textos adequados à sua faixa etária(exemplo:\"textos curtos ou histórias\")?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q100",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Habilidade de Leitura e Escrita",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "A criança escreve de maneira coerente, com boa organização de ideias, mesmo que ainda com erros ortográficos ou gramaticais?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q101",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Desenvolvimento de Conceitos Abstratos",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "A criança consegue aplicar conceitos aprendidos em situações novas(exemplo:\"usar conhecimento de matemática para resolver um problema do cotidiano\")?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q102",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Desenvolvimento de Conceitos Abstratos",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "A criança começa a entender conceitos mais abstratos, como tempo(ontem, hoje, amanhã), comparações e classificações(maior, menor, mais rápido, mais devagar)?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q103",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Habilidades Motoras",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "A criança consegue realizar atividades físicas qu exigem coorenação, como correr, pular ou jogar bola?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q104",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Habilidades Motoras",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "A criança tem habilidades de motorcidade fina, como escrever, desenhar ou usar tesoura com precisão",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q105",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Habilidades Motoras",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "A criança demonstra controle sobre seus movimentos em atividades de equilíbrio, como caminhar em linha reta ou fazer movimentos corporais mais complexos?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q106",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Atenção e Concentração",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "O adolescente consegue manter o foco em tarefas mais longas ou complexas, como leituras ou redações, por um tempo adequado?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q107",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Atenção e Concentração",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "O adolescente se distrai com muita facilidade durante a atividades de grupo ou individuais?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q108",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Memória e Retenção",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "O adolescente consegue lembrar informações-chave de lições anteriores e aplicá-las em tarefas novas?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q109",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Memória e Retenção",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "O adolescente é capaz de organizar e reter informações durante as atividades de estudo ou revisão?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q110",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Resolução de Problemas e Pensamento Crítico",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "O adolescente demonstra habilidade para analisar situações e encontrar soluções criativas e lógicas?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q111",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Resolução de Problemas e Pensamento Crítico",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "Quando enfrentamos um problema, o adolescente tenta diferentes abordagens antes de pedir ajuda?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q112",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Linguagem e Comunicação",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "O adolescente é capaz de expressar suas ideias de forma clara e coerente, seja oralmente ou por escrito?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q113",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Linguagem e Comunicação",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "O adolescente utiliza um vocabulário adequado e articúla bem suas opiniões em discussões ou apresentações?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q114",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Organização e Planejamento",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "O adolescente consegue organizar seu tempo e suas tarefas de maneira eficiente(exemplo: cumprir prazo, organizar os estudos)?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q115",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Organização e Planejamento",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "O adolescente demonstra habilidade em planejar projetos ou atividades complexas, dividindo-as em etapas?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q116",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Habilidades Motoras",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "O adolescente demonstra controle e precisão em atividades que exigem coordenação motora fina, como escrever, desenhar ou usar ferramentas?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q117",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Habilidades Motoras",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "O adolescente participa ativamente de atividades fisicas, como esportes ou exercícios, demonstrando habilidades motoras grossas, como correr, saltar e se equilibrar?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    },
+    {
+      "id": "Q118",
+      "instrumento": "QUESTIONÁRIO DAS HABILIDADES COGNITIVAS/MOTORAS",
+      "faixa_etaria": "Habilidades Motoras",
+      "dimensao": null,
+      "tipo": "likert",
+      "pergunta": "O adolescente consegue realizar movimentos complexos com destreza e confiança como em atividades que envolvem coordenação olho-mão (por exemplo: jogar bola, jogar tênis ou manipular equipamentos)?",
+      "opcoes": [
+        {
+          "value": 0,
+          "label": "Nunca ou Raramente"
+        },
+        {
+          "value": 1,
+          "label": "Às vezes"
+        },
+        {
+          "value": 2,
+          "label": "Frequentemente"
+        },
+        {
+          "value": 3,
+          "label": "Sempre"
+        }
+      ]
+    }
+  ]
+}
